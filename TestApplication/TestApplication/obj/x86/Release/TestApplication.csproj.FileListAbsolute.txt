@@ -1,0 +1,11 @@
+C:\Users\Controller\Desktop\тестовое\testApp\TestApplication\TestApplication\bin\Release\Resources\Fitments.csv
+C:\Users\Controller\Desktop\тестовое\testApp\TestApplication\TestApplication\bin\Release\Resources\Products.csv
+C:\Users\Controller\Desktop\тестовое\testApp\TestApplication\TestApplication\bin\Release\TestApplication.exe
+C:\Users\Controller\Desktop\тестовое\testApp\TestApplication\TestApplication\bin\Release\TestApplication.pdb
+C:\Users\Controller\Desktop\тестовое\testApp\TestApplication\TestApplication\obj\x86\Release\TestApplication.AboutForm.resources
+C:\Users\Controller\Desktop\тестовое\testApp\TestApplication\TestApplication\obj\x86\Release\TestApplication.AddForm.resources
+C:\Users\Controller\Desktop\тестовое\testApp\TestApplication\TestApplication\obj\x86\Release\TestApplication.MainForm.resources
+C:\Users\Controller\Desktop\тестовое\testApp\TestApplication\TestApplication\obj\x86\Release\TestApplication.Properties.Resources.resources
+C:\Users\Controller\Desktop\тестовое\testApp\TestApplication\TestApplication\obj\x86\Release\TestApplication.csproj.GenerateResource.Cache
+C:\Users\Controller\Desktop\тестовое\testApp\TestApplication\TestApplication\obj\x86\Release\TestApplication.exe
+C:\Users\Controller\Desktop\тестовое\testApp\TestApplication\TestApplication\obj\x86\Release\TestApplication.pdb

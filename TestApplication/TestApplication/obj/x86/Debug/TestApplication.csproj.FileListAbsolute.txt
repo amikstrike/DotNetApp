@@ -1,0 +1,46 @@
+C:\Users\Controller\Desktop\тестовое\testApp\TestApplication\TestApplication\obj\x86\Debug\TestApplication.exe
+C:\Users\Controller\Desktop\тестовое\testApp\TestApplication\TestApplication\obj\x86\Debug\TestApplication.pdb
+C:\Users\Controller\Desktop\тестовое\testApp\TestApplication\TestApplication\obj\x86\Debug\TestApplication.csprojResolveAssemblyReference.cache
+C:\Users\Controller\Desktop\тестовое\testApp\TestApplication\TestApplication\obj\x86\Debug\TestApplication.MainForm.resources
+C:\Users\Controller\Desktop\тестовое\testApp\TestApplication\TestApplication\obj\x86\Debug\TestApplication.Properties.Resources.resources
+C:\Users\Controller\Desktop\тестовое\testApp\TestApplication\TestApplication\obj\x86\Debug\TestApplication.csproj.GenerateResource.Cache
+C:\Users\Controller\Desktop\тестовое\testApp\TestApplication\TestApplication\bin\Debug\Resources\Fitments.csv
+C:\Users\Controller\Desktop\тестовое\testApp\TestApplication\TestApplication\bin\Debug\Resources\Products.csv
+C:\Users\Controller\Desktop\тестовое\testApp\TestApplication\TestApplication\bin\Debug\TestApplication.exe
+C:\Users\Controller\Desktop\тестовое\testApp\TestApplication\TestApplication\bin\Debug\TestApplication.pdb
+C:\Users\Controller\Desktop\тестовое\testApp\TestApplication\TestApplication\obj\x86\Debug\TestApplication.AddForm.resources
+C:\Users\Oleg Ivchenko\Desktop\тестовое\testApp\TestApplication\TestApplication\bin\Debug\Resources\Fitments.csv
+C:\Users\Oleg Ivchenko\Desktop\тестовое\testApp\TestApplication\TestApplication\bin\Debug\Resources\Products.csv
+C:\Users\Oleg Ivchenko\Desktop\тестовое\testApp\TestApplication\TestApplication\bin\Debug\TestApplication.exe
+C:\Users\Oleg Ivchenko\Desktop\тестовое\testApp\TestApplication\TestApplication\bin\Debug\TestApplication.pdb
+C:\Users\Oleg Ivchenko\Desktop\тестовое\testApp\TestApplication\TestApplication\obj\x86\Debug\TestApplication.AboutForm.resources
+C:\Users\Oleg Ivchenko\Desktop\тестовое\testApp\TestApplication\TestApplication\obj\x86\Debug\TestApplication.AddForm.resources
+C:\Users\Oleg Ivchenko\Desktop\тестовое\testApp\TestApplication\TestApplication\obj\x86\Debug\TestApplication.MainForm.resources
+C:\Users\Oleg Ivchenko\Desktop\тестовое\testApp\TestApplication\TestApplication\obj\x86\Debug\TestApplication.Properties.Resources.resources
+C:\Users\Oleg Ivchenko\Desktop\тестовое\testApp\TestApplication\TestApplication\obj\x86\Debug\TestApplication.csproj.GenerateResource.Cache
+C:\Users\Oleg Ivchenko\Desktop\тестовое\testApp\TestApplication\TestApplication\obj\x86\Debug\TestApplication.exe
+C:\Users\Oleg Ivchenko\Desktop\тестовое\testApp\TestApplication\TestApplication\obj\x86\Debug\TestApplication.pdb
+C:\Users\oleg.iv\Desktop\Ivchenko_Oleg_Test_Application\TestApplication\TestApplication\obj\x86\Debug\TestApplication.exe
+C:\Users\oleg.iv\Desktop\Ivchenko_Oleg_Test_Application\TestApplication\TestApplication\obj\x86\Debug\TestApplication.pdb
+C:\Users\oleg.iv\Desktop\Ivchenko_Oleg_Test_Application\TestApplication\TestApplication\bin\Debug\Resources\Fitments.csv
+C:\Users\oleg.iv\Desktop\Ivchenko_Oleg_Test_Application\TestApplication\TestApplication\bin\Debug\Resources\Products.csv
+C:\Users\oleg.iv\Desktop\Ivchenko_Oleg_Test_Application\TestApplication\TestApplication\bin\Debug\TestApplication.exe
+C:\Users\oleg.iv\Desktop\Ivchenko_Oleg_Test_Application\TestApplication\TestApplication\bin\Debug\TestApplication.pdb
+C:\Users\oleg.iv\Desktop\Ivchenko_Oleg_Test_Application\TestApplication\TestApplication\obj\x86\Debug\TestApplication.csprojResolveAssemblyReference.cache
+C:\Users\oleg.iv\Desktop\Ivchenko_Oleg_Test_Application\TestApplication\TestApplication\obj\x86\Debug\TestApplication.AboutForm.resources
+C:\Users\oleg.iv\Desktop\Ivchenko_Oleg_Test_Application\TestApplication\TestApplication\obj\x86\Debug\TestApplication.AddForm.resources
+C:\Users\oleg.iv\Desktop\Ivchenko_Oleg_Test_Application\TestApplication\TestApplication\obj\x86\Debug\TestApplication.MainForm.resources
+C:\Users\oleg.iv\Desktop\Ivchenko_Oleg_Test_Application\TestApplication\TestApplication\obj\x86\Debug\TestApplication.Properties.Resources.resources
+C:\Users\oleg.iv\Desktop\Ivchenko_Oleg_Test_Application\TestApplication\TestApplication\obj\x86\Debug\TestApplication.csproj.GenerateResource.Cache
+D:\Projects\Ivchenko_Oleg_Test_Application\TestApplication\TestApplication\obj\x86\Debug\TestApplication.exe
+D:\Projects\Ivchenko_Oleg_Test_Application\TestApplication\TestApplication\obj\x86\Debug\TestApplication.pdb
+D:\Projects\Ivchenko_Oleg_Test_Application\TestApplication\TestApplication\bin\Debug\Resources\Fitments.csv
+D:\Projects\Ivchenko_Oleg_Test_Application\TestApplication\TestApplication\bin\Debug\Resources\Products.csv
+D:\Projects\Ivchenko_Oleg_Test_Application\TestApplication\TestApplication\bin\Debug\TestApplication.exe
+D:\Projects\Ivchenko_Oleg_Test_Application\TestApplication\TestApplication\bin\Debug\TestApplication.pdb
+D:\Projects\Ivchenko_Oleg_Test_Application\TestApplication\TestApplication\obj\x86\Debug\TestApplication.csprojResolveAssemblyReference.cache
+D:\Projects\Ivchenko_Oleg_Test_Application\TestApplication\TestApplication\obj\x86\Debug\TestApplication.AboutForm.resources
+D:\Projects\Ivchenko_Oleg_Test_Application\TestApplication\TestApplication\obj\x86\Debug\TestApplication.AddForm.resources
+D:\Projects\Ivchenko_Oleg_Test_Application\TestApplication\TestApplication\obj\x86\Debug\TestApplication.MainForm.resources
+D:\Projects\Ivchenko_Oleg_Test_Application\TestApplication\TestApplication\obj\x86\Debug\TestApplication.Properties.Resources.resources
+D:\Projects\Ivchenko_Oleg_Test_Application\TestApplication\TestApplication\obj\x86\Debug\TestApplication.csproj.GenerateResource.Cache
